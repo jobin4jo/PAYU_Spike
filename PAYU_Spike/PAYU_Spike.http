@@ -1,0 +1,6 @@
+@PAYU_Spike_HostAddress = http://localhost:5212
+
+GET {{PAYU_Spike_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
